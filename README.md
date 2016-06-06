@@ -1,14 +1,6 @@
-# hello-world
+# HOWDY
 
 Ryan
 
-André is the best
+André
 
-João
-
-Kevin
-
-
-http://pastebin.com/9YwaCrCQ
-
-https://drive.google.com/file/d/0B--Vg8IwABqCYjNoSFliMDBIU2c/view?pli=1
